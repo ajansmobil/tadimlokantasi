@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "dcfd9wnrli",
+      "url": "",
+      "path": "hakkimizda",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda"
+    },
+    {
+      "name": {
+        "tr": "Menülerimiz"
+      },
+      "status": "play",
+      "category": "",
+      "id": "r1fv5ic4eu",
+      "url": "",
+      "path": "menulerimiz",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": ""
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "b8jsxstxqk",
+      "url": "",
+      "path": "iletisim",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "jm3e97",
+          "hej607"
+        ],
+        "footer": []
+      },
+      "pathnext": ""
+    }
+  ],
+  "modulestatus": {
+    "page": true,
+    "detail": false,
+    "body": true
+  }
+}

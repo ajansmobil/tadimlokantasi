@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "Sayfalar",
+      "path": "page",
+      "desc": [],
+      "data": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "detail": false,
+        "body": true
+      }
+    },
+    {
+      "name": "Kurumsal",
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "jza5mp"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "detail": true,
+        "bgimg": true
+      }
+    }
+  ]
+}
