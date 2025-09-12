@@ -1,0 +1,20 @@
+{
+  "name": {
+    "tr": "Kahvaltı Menü"
+  },
+  "status": "play",
+  "category": "kahvaltı",
+  "id": "kahvaltimenu001",
+  "url": "",
+  "path": "kahvalti-menu",
+  "index": 1,
+  "icon": "restaurant",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "desc": {},
+  "img": "zg9z9.gif"
+}

@@ -34,6 +34,83 @@
         "detail": true,
         "bgimg": true
       }
+    },
+    {
+      "name": "Kahvaltı Çeşitleri",
+      "path": "kahvalti-cesitleri",
+      "desc": [],
+      "data": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true
+      }
+    },
+    {
+      "name": " Kebap Çeşitleri",
+      "path": "kebap-cesitleri",
+      "desc": [],
+      "data": [],
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true
+      }
+    },
+    {
+      "name": "Sulu Yemekler",
+      "path": "sulu-yemekler",
+      "desc": [],
+      "data": [],
+      "index": 4,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true
+      }
+    },
+    {
+      "name": "Lahmacun",
+      "path": "lahmacun",
+      "desc": [],
+      "data": [],
+      "index": 5,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true
+      }
+    },
+    {
+      "name": "Yemek Çeşitleri",
+      "path": "yemek-cesitleri",
+      "desc": [],
+      "data": [],
+      "index": 6,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "body": true,
+        "img": true,
+        "bgimg": true
+      }
     }
   ]
 }

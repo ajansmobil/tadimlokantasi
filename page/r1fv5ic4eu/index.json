@@ -5,13 +5,15 @@
   "status": "play",
   "category": "",
   "id": "r1fv5ic4eu",
-  "url": "",
+  "externalUrl": "",
   "path": "menulerimiz",
   "index": 1,
   "icon": "home",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "yz3h0x"
+    ],
     "footer": []
   },
   "pathnext": "",
@@ -27,6 +29,6 @@
   "spot": {
     "tr": ""
   },
-  "update": "2025-08-18T19:45:22.074Z",
+  "update": "2025-09-12T04:45:02.816Z",
   "date": "2025-08-18T19:45:22.074Z"
 }

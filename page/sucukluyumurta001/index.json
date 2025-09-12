@@ -1,0 +1,20 @@
+{
+  "name": {
+    "tr": "Sucuklu Yumurta"
+  },
+  "status": "play",
+  "category": "kahvaltı",
+  "id": "sucukluyumurta001",
+  "url": "",
+  "path": "sucuklu-yumurta",
+  "index": 4,
+  "icon": "restaurant",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "desc": {},
+  "img": "u98ku.gif"
+}

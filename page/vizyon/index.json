@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Vizyon"
+  },
+  "status": "play",
+  "id": "vizyon",
+  "path": "vizyon",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Vizyonumuz</h2>\n    <p style=\" font-size: 16px;\">\n        Tadım Lokantası olarak vizyonumuz, Gaziantep'in en sevilen ve güvenilir lokantası olmak, aynı zamanda bölgenin mutfak kültürünü dünyaya tanıtan bir marka haline gelmektir. Misafirlerimizin ilk tercihi olarak, her ziyarette aynı kalite ve lezzeti sunmayı hedefliyoruz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Gelecekte, Gaziantep mutfağının eşsiz lezzetlerini daha geniş kitlelere ulaştırmak ve bu kültürel mirası koruyarak geliştirmek istiyoruz. Teknolojinin sunduğu imkanlardan yararlanarak hizmet kalitemizi artırırken, geleneksel değerlerimizden asla ödün vermeyeceğiz. Misafirlerimizin memnuniyeti bizim en büyük başarımızdır.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "icon": "home",
+  "desc": {},
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-09-12T04:02:35.104Z",
+  "date": "2025-09-10T03:24:21.156Z"
+}

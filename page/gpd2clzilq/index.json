@@ -1,0 +1,22 @@
+{
+  "name": {
+    "tr": "Lahmacun"
+  },
+  "status": "play",
+  "category": "",
+  "id": "gpd2clzilq",
+  "url": "",
+  "path": "lahmacun",
+  "index": 3,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "e0c0vz4"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "desc": {},
+  "img": "oqbiu.png"
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Yemek Çeşitleri",
+  "path": "yemek-cesitleri",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Sulu Yemekler"
+      },
+      "status": "play",
+      "category": "",
+      "id": "tqn165k4mq",
+      "url": "",
+      "path": "sulu-yemekler",
+      "index": 0,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "e0c0vz1"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "desc": {},
+      "img": "ct213.png"
+    },
+    {
+      "name": {
+        "tr": "Kebap Çeşitleri"
+      },
+      "status": "play",
+      "category": "",
+      "id": "nh9x6zye1u",
+      "url": "",
+      "path": "kebap-cesitleri",
+      "index": 1,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "e0c0vz2"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "desc": {},
+      "img": "y7tum.png"
+    },
+    {
+      "name": {
+        "tr": "Kahvaltı Çeşitleri"
+      },
+      "status": "play",
+      "category": "",
+      "id": "rjhggt1twj",
+      "url": "",
+      "path": "kahvalti-cesitleri",
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "e0c0vz3"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "desc": {},
+      "icon": "home",
+      "img": "bj8gx.png"
+    },
+    {
+      "name": {
+        "tr": "Lahmacun"
+      },
+      "status": "play",
+      "category": "",
+      "id": "gpd2clzilq",
+      "url": "",
+      "path": "lahmacun",
+      "index": 3,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "e0c0vz4"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "desc": {},
+      "img": "oqbiu.png"
+    }
+  ],
+  "index": 6,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "body": true,
+    "img": true,
+    "bgimg": true
+  }
+}

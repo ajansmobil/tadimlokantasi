@@ -68,7 +68,7 @@
       "local": "body",
       "category": "contact",
       "desing": {
-        "color": "#1e3046",
+        "color": "#6b8f00",
         "name": {
           "tr": "Bize Ulaşın"
         },
@@ -106,9 +106,9 @@
         "height": "200",
         "opacity": "0.5",
         "backgroundcolor": "#000",
-        "color": "#1e3046",
+        "color": "#6b8f00",
         "img": "map.jpg",
-        "url": "https://maps.app.goo.gl/L1nktTBcNpNSKzdg7"
+        "externalUrl": "https://maps.app.goo.gl/FFjdHSqDnwBNpsmU8"
       },
       "id": "hej607"
     },
@@ -124,9 +124,117 @@
         "font-size": "50",
         "backgroundcolor": "#000",
         "category": "kurumsal",
-        "menu-active": "#1e3046"
+        "menu-active": "#6b8f00"
       },
       "id": "jza5mp"
+    },
+    {
+      "index": 5,
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "data": [
+        {
+          "img": "slider.png"
+        }
+      ],
+      "id": "qun88s"
+    },
+    {
+      "index": 6,
+      "name": "Yemek Çeşitleri",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "yemek-cesitleri",
+        "color": "#fff",
+        "bgcolor": "#6b8f00",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "yz3h0x"
+    },
+    {
+      "index": 7,
+      "name": "Sulu Yemekler List",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "sulu-yemekler",
+        "color": "#fff",
+        "bgcolor": "#6b8f00",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "e0c0vz1"
+    },
+    {
+      "index": 8,
+      "name": "Kebap Çeşitleri List",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "kebap-cesitleri",
+        "bgcolor": "#6b8f00",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "e0c0vz2"
+    },
+    {
+      "index": 9,
+      "name": "Kahvaltı Çeşitleri List",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "kahvalti-cesitleri",
+        "bgcolor": "#6b8f00",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "e0c0vz3"
+    },
+    {
+      "index": 10,
+      "name": "Lahmacun List",
+      "path": "page-column",
+      "local": "body",
+      "category": "page list",
+      "desing": {
+        "page": "lahmacun",
+        "bgcolor": "#6b8f00",
+        "color": "#fff",
+        "height": "200px",
+        "font-size": "18px",
+        "opacity": "0.5",
+        "chilebgcolor": "#000",
+        "chilecolor": "#fff",
+        "chilesize": "16px"
+      },
+      "id": "e0c0vz4"
     }
   ]
 }

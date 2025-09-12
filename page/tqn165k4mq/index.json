@@ -1,0 +1,22 @@
+{
+  "name": {
+    "tr": "Sulu Yemekler"
+  },
+  "status": "play",
+  "category": "",
+  "id": "tqn165k4mq",
+  "url": "",
+  "path": "sulu-yemekler",
+  "index": 0,
+  "icon": "home",
+  "desing": {
+    "header": [],
+    "body": [
+      "e0c0vz1"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "desc": {},
+  "img": "ct213.png"
+}

@@ -1,0 +1,20 @@
+{
+  "name": {
+    "tr": "Kıymalı Yumurta"
+  },
+  "status": "play",
+  "category": "kahvaltı",
+  "id": "kiymalikumurta001",
+  "url": "",
+  "path": "kiymali-yumurta",
+  "index": 2,
+  "icon": "restaurant",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "desc": {},
+  "img": "oa4or.gif"
+}

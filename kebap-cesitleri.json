@@ -1,0 +1,152 @@
+{
+  "name": " Kebap Çeşitleri",
+  "path": "kebap-cesitleri",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kuşbaşılı Alinazik"
+      },
+      "status": "play",
+      "category": "",
+      "id": "kusbasili_alinazik001",
+      "url": "",
+      "path": "kusbasili-alinazik",
+      "index": 0,
+      "icon": "restaurant",
+      "desc": {},
+      "img": "vz6zi.gif"
+    },
+    {
+      "name": {
+        "tr": "Tavuk Kuşbaş"
+      },
+      "status": "play",
+      "category": "",
+      "id": "tavuk_kusbas001",
+      "url": "",
+      "path": "tavuk-kusbas",
+      "index": 1,
+      "icon": "restaurant",
+      "desc": {},
+      "img": "d5s9m.gif"
+    },
+    {
+      "name": {
+        "tr": "Soğan Kebabı"
+      },
+      "status": "play",
+      "category": "",
+      "id": "sogan_kebabi001",
+      "url": "",
+      "path": "sogan-kebabi",
+      "index": 2,
+      "icon": "restaurant",
+      "desc": {},
+      "img": "q0dpi.gif"
+    },
+    {
+      "name": {
+        "tr": "Sebzeli Kebap"
+      },
+      "status": "play",
+      "category": "",
+      "id": "sebzeli_kebap001",
+      "url": "",
+      "path": "sebzeli-kebap",
+      "index": 3,
+      "icon": "restaurant",
+      "desc": {},
+      "img": "m5aeh.gif"
+    },
+    {
+      "name": {
+        "tr": "Sade Kıyma"
+      },
+      "status": "play",
+      "category": "",
+      "id": "sade_kiyma001",
+      "url": "",
+      "path": "sade-kiyma",
+      "index": 4,
+      "icon": "restaurant",
+      "desc": {},
+      "img": "qqz24.gif"
+    },
+    {
+      "name": {
+        "tr": "Patlıcan Kebabı"
+      },
+      "status": "play",
+      "category": "",
+      "id": "patlican_kebabi001",
+      "url": "",
+      "path": "patlican-kebabi",
+      "index": 5,
+      "icon": "restaurant",
+      "desc": {},
+      "img": "g253z.gif"
+    },
+    {
+      "name": {
+        "tr": "Kuzu Kuşbaşı"
+      },
+      "status": "play",
+      "category": "",
+      "id": "kuzu_kusbasi001",
+      "url": "",
+      "path": "kuzu-kusbasi",
+      "index": 6,
+      "icon": "restaurant",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Ezmeli Kuşbaşı"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ezmeli_kusbasi001",
+      "url": "",
+      "path": "ezmeli-kusbasi",
+      "index": 7,
+      "icon": "restaurant",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Ezmeli Kıyma"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ezmeli_kiyma001",
+      "url": "",
+      "path": "ezmeli-kiyma",
+      "index": 8,
+      "icon": "restaurant",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Alinazik"
+      },
+      "status": "play",
+      "category": "",
+      "id": "alinazik001",
+      "url": "",
+      "path": "alinazik",
+      "index": 9,
+      "icon": "restaurant",
+      "desc": {}
+    }
+  ],
+  "index": 3,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true
+  }
+}

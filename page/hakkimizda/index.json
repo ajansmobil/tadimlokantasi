@@ -1,0 +1,32 @@
+{
+  "name": {
+    "tr": "Hakkımızda"
+  },
+  "status": "play",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Hakkımızda</h2>\n    <p style=\" font-size: 16px;\">\n        Tadım Lokantası olarak, Gaziantep'in zengin mutfak kültürünü en iyi şekilde yansıtmak ve misafirlerimize unutulmaz lezzet deneyimleri sunmak için kurulduk. Geleneksel Gaziantep mutfağının eşsiz tatlarını, modern sunum teknikleriyle harmanlayarak, her yaştan misafirimize hitap eden bir menü oluşturduk.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Lokantamızda, Gaziantep'in meşhur lahmacunundan kebap çeşitlerine, sulu yemeklerden kahvaltı lezzetlerine kadar geniş bir yelpazede hizmet veriyoruz. Tüm yemeklerimiz, deneyimli aşçılarımız tarafından en taze malzemeler kullanılarak, geleneksel tariflerle hazırlanmaktadır. Misafir memnuniyetini her şeyin üstünde tutarak, kaliteli hizmet anlayışımızla sizleri ağırlamaktan mutluluk duyuyoruz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Gaziantep Küsget bölgesinde bulunan lokantamız, sıcak ve samimi atmosferiyle misafirlerimize evlerindeki rahatlığı yaşatmayı hedefliyor. Aile işletmesi olarak başladığımız bu yolculukta, her geçen gün daha fazla misafire hizmet vermenin gururunu yaşıyoruz. Sizleri de bu lezzet yolculuğuna davet ediyoruz.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "icon": "home",
+  "desc": {},
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-09-12T04:02:35.100Z",
+  "date": "2025-09-10T03:24:21.145Z",
+  "pathnext": ""
+}

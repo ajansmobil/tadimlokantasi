@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalite-politikamiz",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Kalite Politikamız</h2>\n    <p style=\" font-size: 16px;\">\n        Tadım Lokantası olarak kalite politikamız, misafirlerimize en taze ve lezzetli yemekleri sunmak, hijyen standartlarını en üst seviyede tutmak ve sürekli iyileştirme anlayışıyla hizmet vermektir. Her tabağımızda aynı kaliteyi garanti ediyoruz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Mutfağımızda kullandığımız tüm malzemeler, günlük olarak tedarik edilir ve en sıkı hijyen kurallarına uygun şekilde hazırlanır. Aşçılarımız, geleneksel Gaziantep mutfağının sırlarını bilen deneyimli ustalardır. Misafirlerimizin geri bildirimlerini dikkate alarak, sürekli kendimizi geliştiriyor ve hizmet kalitemizi artırıyoruz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Kalite kontrol süreçlerimiz, yemek hazırlama aşamasından servise kadar her adımda uygulanır. Personelimiz düzenli eğitimler alır ve sağlık sertifikalarına sahiptir. Misafirlerimizin güvenliği ve memnuniyeti bizim önceliğimizdir.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 3,
+  "icon": "home",
+  "desc": {},
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-09-12T04:02:35.105Z",
+  "date": "2025-09-10T03:24:21.159Z"
+}

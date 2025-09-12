@@ -1,0 +1,20 @@
+{
+  "name": {
+    "tr": "Mercimek Çorbası"
+  },
+  "status": "play",
+  "category": "kahvaltı",
+  "id": "mercimekcorbasi001",
+  "url": "",
+  "path": "mercimek-corbasi",
+  "index": 3,
+  "icon": "restaurant",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "desc": {},
+  "img": "tdoyf.gif"
+}

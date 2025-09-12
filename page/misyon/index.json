@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Misyon"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Misyonumuz</h2>\n    <p style=\" font-size: 16px;\">\n        Tadım Lokantası olarak misyonumuz, Gaziantep'in zengin mutfak kültürünü koruyarak gelecek nesillere aktarmak ve bu eşsiz lezzetleri tüm misafirlerimizle buluşturmaktır. Geleneksel tarifleri modern hijyen standartlarıyla birleştirerek, her tabağımızda kalite ve lezzeti en üst seviyede tutmayı hedefliyoruz.\n    </p>\n    <p style=\" font-size: 16px;\">\n        Misafirlerimize sadece yemek değil, aynı zamanda sıcak bir aile ortamı sunarak, onların mutlu anılar biriktirmelerine katkıda bulunuyoruz. Yerel üreticilerle iş birliği yaparak, taze ve kaliteli malzemeler kullanmaya özen gösteriyor, böylece hem bölge ekonomisine hem de sürdürülebilir tarıma destek oluyoruz.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 1,
+  "icon": "home",
+  "desc": {},
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-09-12T04:02:35.102Z",
+  "date": "2025-09-10T03:24:21.149Z"
+}

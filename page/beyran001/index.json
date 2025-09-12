@@ -1,0 +1,20 @@
+{
+  "name": {
+    "tr": "Beyran"
+  },
+  "status": "play",
+  "category": "kahvaltı",
+  "id": "beyran001",
+  "url": "",
+  "path": "beyran",
+  "index": 5,
+  "icon": "restaurant",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "desc": {},
+  "img": "lwn9t.gif"
+}
