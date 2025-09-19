@@ -1,9 +1,9 @@
 
-  .qm4t6menulist-menu:hover .dropdown-content-qm4t6 {
+  .acwhrmenulist-menu:hover .dropdown-content-acwhr {
     display: flex;
     flex-direction: column;
   }
-  .qm4t6menulist-menu {
+  .acwhrmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .qm4t6menulist-menu:hover {
+  .acwhrmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .qm4t6menulist-menu:hover > a {
+  .acwhrmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .qm4t6menulist-menu > a {
+  .acwhrmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-qm4t6 {
+  .dropdown-content-active-acwhr {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-qm4t6 > a {
+  .dropdown-content-active-acwhr > a {
     color: #000 !important;
   }
 
-  .dropdown-content-qm4t6 {
+  .dropdown-content-acwhr {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-qm4t6 > a {
+  .dropdown-content-acwhr > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-qm4t6 > a:hover {
+  .dropdown-content-acwhr > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .qm4t6body {
+  .acwhrbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .qm4t6body > a {
+  .acwhrbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .qm4t6-title {
+  .acwhr-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .qm4t6-spot {
+  .acwhr-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .qm4t6-icon {
+  .acwhr-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .qm4t6 {
+  .acwhr {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .qm4t6title {
+  .acwhrtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .qm4t6titlebody {
+  .acwhrtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .qm4t6titlebodytitle {
+  .acwhrtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .qm4t6titlebodylang {
+  .acwhrtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .qm4t6titlebodylang ul {
+  .acwhrtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .qm4t6titlebodylang li {
+  .acwhrtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .qm4t6menu {
+  .acwhrmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .qm4t6menulist {
+  .acwhrmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .qm4t6menubody {
+  .acwhrmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .qm4t6menulist {
+  .acwhrmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .qm4t6menulistbody {
+  .acwhrmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .qm4t6menu {
+    .acwhrmenu {
       overflow-x: auto;
     }
-    .qm4t6menulist {
+    .acwhrmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .qm4t6body {
+    .acwhrbody {
       display: flex;
       align-items: center;
       justify-content: center;

@@ -1,9 +1,9 @@
 
-  .xgx02menulist-menu:hover .dropdown-content-xgx02 {
+  .oxkaemenulist-menu:hover .dropdown-content-oxkae {
     display: flex;
     flex-direction: column;
   }
-  .xgx02menulist-menu {
+  .oxkaemenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .xgx02menulist-menu:hover {
+  .oxkaemenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .xgx02menulist-menu:hover > a {
+  .oxkaemenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .xgx02menulist-menu > a {
+  .oxkaemenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-xgx02 {
+  .dropdown-content-active-oxkae {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-xgx02 > a {
+  .dropdown-content-active-oxkae > a {
     color: #000 !important;
   }
 
-  .dropdown-content-xgx02 {
+  .dropdown-content-oxkae {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-xgx02 > a {
+  .dropdown-content-oxkae > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-xgx02 > a:hover {
+  .dropdown-content-oxkae > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .xgx02body {
+  .oxkaebody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .xgx02body > a {
+  .oxkaebody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .xgx02-title {
+  .oxkae-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .xgx02-spot {
+  .oxkae-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .xgx02-icon {
+  .oxkae-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .xgx02 {
+  .oxkae {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .xgx02title {
+  .oxkaetitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .xgx02titlebody {
+  .oxkaetitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .xgx02titlebodytitle {
+  .oxkaetitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .xgx02titlebodylang {
+  .oxkaetitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .xgx02titlebodylang ul {
+  .oxkaetitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .xgx02titlebodylang li {
+  .oxkaetitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .xgx02menu {
+  .oxkaemenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .xgx02menulist {
+  .oxkaemenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .xgx02menubody {
+  .oxkaemenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .xgx02menulist {
+  .oxkaemenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .xgx02menulistbody {
+  .oxkaemenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .xgx02menu {
+    .oxkaemenu {
       overflow-x: auto;
     }
-    .xgx02menulist {
+    .oxkaemenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .xgx02body {
+    .oxkaebody {
       display: flex;
       align-items: center;
       justify-content: center;

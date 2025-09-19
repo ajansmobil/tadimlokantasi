@@ -1,9 +1,9 @@
 
-  .fuwhsmenulist-menu:hover .dropdown-content-fuwhs {
+  .cc84wmenulist-menu:hover .dropdown-content-cc84w {
     display: flex;
     flex-direction: column;
   }
-  .fuwhsmenulist-menu {
+  .cc84wmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .fuwhsmenulist-menu:hover {
+  .cc84wmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .fuwhsmenulist-menu:hover > a {
+  .cc84wmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .fuwhsmenulist-menu > a {
+  .cc84wmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-fuwhs {
+  .dropdown-content-active-cc84w {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-fuwhs > a {
+  .dropdown-content-active-cc84w > a {
     color: #000 !important;
   }
 
-  .dropdown-content-fuwhs {
+  .dropdown-content-cc84w {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-fuwhs > a {
+  .dropdown-content-cc84w > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-fuwhs > a:hover {
+  .dropdown-content-cc84w > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .fuwhsbody {
+  .cc84wbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .fuwhsbody > a {
+  .cc84wbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .fuwhs-title {
+  .cc84w-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .fuwhs-spot {
+  .cc84w-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .fuwhs-icon {
+  .cc84w-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .fuwhs {
+  .cc84w {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .fuwhstitle {
+  .cc84wtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .fuwhstitlebody {
+  .cc84wtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .fuwhstitlebodytitle {
+  .cc84wtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .fuwhstitlebodylang {
+  .cc84wtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .fuwhstitlebodylang ul {
+  .cc84wtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .fuwhstitlebodylang li {
+  .cc84wtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .fuwhsmenu {
+  .cc84wmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .fuwhsmenulist {
+  .cc84wmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .fuwhsmenubody {
+  .cc84wmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .fuwhsmenulist {
+  .cc84wmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .fuwhsmenulistbody {
+  .cc84wmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .fuwhsmenu {
+    .cc84wmenu {
       overflow-x: auto;
     }
-    .fuwhsmenulist {
+    .cc84wmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .fuwhsbody {
+    .cc84wbody {
       display: flex;
       align-items: center;
       justify-content: center;

@@ -1,9 +1,9 @@
 
-  .y2jgfmenulist-menu:hover .dropdown-content-y2jgf {
+  .fa0ntmenulist-menu:hover .dropdown-content-fa0nt {
     display: flex;
     flex-direction: column;
   }
-  .y2jgfmenulist-menu {
+  .fa0ntmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .y2jgfmenulist-menu:hover {
+  .fa0ntmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .y2jgfmenulist-menu:hover > a {
+  .fa0ntmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .y2jgfmenulist-menu > a {
+  .fa0ntmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-y2jgf {
+  .dropdown-content-active-fa0nt {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-y2jgf > a {
+  .dropdown-content-active-fa0nt > a {
     color: #000 !important;
   }
 
-  .dropdown-content-y2jgf {
+  .dropdown-content-fa0nt {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-y2jgf > a {
+  .dropdown-content-fa0nt > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-y2jgf > a:hover {
+  .dropdown-content-fa0nt > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .y2jgfbody {
+  .fa0ntbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .y2jgfbody > a {
+  .fa0ntbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .y2jgf-title {
+  .fa0nt-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .y2jgf-spot {
+  .fa0nt-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .y2jgf-icon {
+  .fa0nt-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .y2jgf {
+  .fa0nt {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .y2jgftitle {
+  .fa0nttitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .y2jgftitlebody {
+  .fa0nttitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .y2jgftitlebodytitle {
+  .fa0nttitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .y2jgftitlebodylang {
+  .fa0nttitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .y2jgftitlebodylang ul {
+  .fa0nttitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .y2jgftitlebodylang li {
+  .fa0nttitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .y2jgfmenu {
+  .fa0ntmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .y2jgfmenulist {
+  .fa0ntmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .y2jgfmenubody {
+  .fa0ntmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .y2jgfmenulist {
+  .fa0ntmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .y2jgfmenulistbody {
+  .fa0ntmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .y2jgfmenu {
+    .fa0ntmenu {
       overflow-x: auto;
     }
-    .y2jgfmenulist {
+    .fa0ntmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .y2jgfbody {
+    .fa0ntbody {
       display: flex;
       align-items: center;
       justify-content: center;

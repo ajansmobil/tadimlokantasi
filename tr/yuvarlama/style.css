@@ -1,9 +1,9 @@
 
-  .x5vvgmenulist-menu:hover .dropdown-content-x5vvg {
+  .w4wb7menulist-menu:hover .dropdown-content-w4wb7 {
     display: flex;
     flex-direction: column;
   }
-  .x5vvgmenulist-menu {
+  .w4wb7menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .x5vvgmenulist-menu:hover {
+  .w4wb7menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .x5vvgmenulist-menu:hover > a {
+  .w4wb7menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .x5vvgmenulist-menu > a {
+  .w4wb7menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-x5vvg {
+  .dropdown-content-active-w4wb7 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-x5vvg > a {
+  .dropdown-content-active-w4wb7 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-x5vvg {
+  .dropdown-content-w4wb7 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-x5vvg > a {
+  .dropdown-content-w4wb7 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-x5vvg > a:hover {
+  .dropdown-content-w4wb7 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .x5vvgbody {
+  .w4wb7body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .x5vvgbody > a {
+  .w4wb7body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .x5vvg-title {
+  .w4wb7-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .x5vvg-spot {
+  .w4wb7-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .x5vvg-icon {
+  .w4wb7-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .x5vvg {
+  .w4wb7 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .x5vvgtitle {
+  .w4wb7title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .x5vvgtitlebody {
+  .w4wb7titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .x5vvgtitlebodytitle {
+  .w4wb7titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .x5vvgtitlebodylang {
+  .w4wb7titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .x5vvgtitlebodylang ul {
+  .w4wb7titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .x5vvgtitlebodylang li {
+  .w4wb7titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .x5vvgmenu {
+  .w4wb7menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .x5vvgmenulist {
+  .w4wb7menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .x5vvgmenubody {
+  .w4wb7menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .x5vvgmenulist {
+  .w4wb7menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .x5vvgmenulistbody {
+  .w4wb7menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .x5vvgmenu {
+    .w4wb7menu {
       overflow-x: auto;
     }
-    .x5vvgmenulist {
+    .w4wb7menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .x5vvgbody {
+    .w4wb7body {
       display: flex;
       align-items: center;
       justify-content: center;

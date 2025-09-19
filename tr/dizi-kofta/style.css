@@ -1,9 +1,9 @@
 
-  .wewp3menulist-menu:hover .dropdown-content-wewp3 {
+  .m72k7menulist-menu:hover .dropdown-content-m72k7 {
     display: flex;
     flex-direction: column;
   }
-  .wewp3menulist-menu {
+  .m72k7menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .wewp3menulist-menu:hover {
+  .m72k7menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .wewp3menulist-menu:hover > a {
+  .m72k7menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .wewp3menulist-menu > a {
+  .m72k7menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-wewp3 {
+  .dropdown-content-active-m72k7 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-wewp3 > a {
+  .dropdown-content-active-m72k7 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-wewp3 {
+  .dropdown-content-m72k7 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-wewp3 > a {
+  .dropdown-content-m72k7 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-wewp3 > a:hover {
+  .dropdown-content-m72k7 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .wewp3body {
+  .m72k7body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .wewp3body > a {
+  .m72k7body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .wewp3-title {
+  .m72k7-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .wewp3-spot {
+  .m72k7-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .wewp3-icon {
+  .m72k7-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .wewp3 {
+  .m72k7 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .wewp3title {
+  .m72k7title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .wewp3titlebody {
+  .m72k7titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .wewp3titlebodytitle {
+  .m72k7titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .wewp3titlebodylang {
+  .m72k7titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .wewp3titlebodylang ul {
+  .m72k7titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .wewp3titlebodylang li {
+  .m72k7titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .wewp3menu {
+  .m72k7menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .wewp3menulist {
+  .m72k7menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .wewp3menubody {
+  .m72k7menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .wewp3menulist {
+  .m72k7menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .wewp3menulistbody {
+  .m72k7menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .wewp3menu {
+    .m72k7menu {
       overflow-x: auto;
     }
-    .wewp3menulist {
+    .m72k7menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .wewp3body {
+    .m72k7body {
       display: flex;
       align-items: center;
       justify-content: center;

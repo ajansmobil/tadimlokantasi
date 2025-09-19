@@ -1,9 +1,9 @@
 
-  .bcfuqmenulist-menu:hover .dropdown-content-bcfuq {
+  .lcpx0menulist-menu:hover .dropdown-content-lcpx0 {
     display: flex;
     flex-direction: column;
   }
-  .bcfuqmenulist-menu {
+  .lcpx0menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .bcfuqmenulist-menu:hover {
+  .lcpx0menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .bcfuqmenulist-menu:hover > a {
+  .lcpx0menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .bcfuqmenulist-menu > a {
+  .lcpx0menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-bcfuq {
+  .dropdown-content-active-lcpx0 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-bcfuq > a {
+  .dropdown-content-active-lcpx0 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-bcfuq {
+  .dropdown-content-lcpx0 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-bcfuq > a {
+  .dropdown-content-lcpx0 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-bcfuq > a:hover {
+  .dropdown-content-lcpx0 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .bcfuqbody {
+  .lcpx0body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .bcfuqbody > a {
+  .lcpx0body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .bcfuq-title {
+  .lcpx0-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .bcfuq-spot {
+  .lcpx0-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .bcfuq-icon {
+  .lcpx0-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .bcfuq {
+  .lcpx0 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .bcfuqtitle {
+  .lcpx0title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .bcfuqtitlebody {
+  .lcpx0titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .bcfuqtitlebodytitle {
+  .lcpx0titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .bcfuqtitlebodylang {
+  .lcpx0titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .bcfuqtitlebodylang ul {
+  .lcpx0titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .bcfuqtitlebodylang li {
+  .lcpx0titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .bcfuqmenu {
+  .lcpx0menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .bcfuqmenulist {
+  .lcpx0menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .bcfuqmenubody {
+  .lcpx0menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .bcfuqmenulist {
+  .lcpx0menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .bcfuqmenulistbody {
+  .lcpx0menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .bcfuqmenu {
+    .lcpx0menu {
       overflow-x: auto;
     }
-    .bcfuqmenulist {
+    .lcpx0menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .bcfuqbody {
+    .lcpx0body {
       display: flex;
       align-items: center;
       justify-content: center;

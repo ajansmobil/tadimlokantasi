@@ -1,9 +1,9 @@
 
-  .pkzrcmenulist-menu:hover .dropdown-content-pkzrc {
+  .iaay8menulist-menu:hover .dropdown-content-iaay8 {
     display: flex;
     flex-direction: column;
   }
-  .pkzrcmenulist-menu {
+  .iaay8menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .pkzrcmenulist-menu:hover {
+  .iaay8menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .pkzrcmenulist-menu:hover > a {
+  .iaay8menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .pkzrcmenulist-menu > a {
+  .iaay8menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-pkzrc {
+  .dropdown-content-active-iaay8 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-pkzrc > a {
+  .dropdown-content-active-iaay8 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-pkzrc {
+  .dropdown-content-iaay8 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-pkzrc > a {
+  .dropdown-content-iaay8 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-pkzrc > a:hover {
+  .dropdown-content-iaay8 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .pkzrcbody {
+  .iaay8body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .pkzrcbody > a {
+  .iaay8body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .pkzrc-title {
+  .iaay8-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .pkzrc-spot {
+  .iaay8-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .pkzrc-icon {
+  .iaay8-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .pkzrc {
+  .iaay8 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .pkzrctitle {
+  .iaay8title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .pkzrctitlebody {
+  .iaay8titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .pkzrctitlebodytitle {
+  .iaay8titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .pkzrctitlebodylang {
+  .iaay8titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .pkzrctitlebodylang ul {
+  .iaay8titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .pkzrctitlebodylang li {
+  .iaay8titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .pkzrcmenu {
+  .iaay8menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .pkzrcmenulist {
+  .iaay8menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .pkzrcmenubody {
+  .iaay8menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .pkzrcmenulist {
+  .iaay8menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .pkzrcmenulistbody {
+  .iaay8menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .pkzrcmenu {
+    .iaay8menu {
       overflow-x: auto;
     }
-    .pkzrcmenulist {
+    .iaay8menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .pkzrcbody {
+    .iaay8body {
       display: flex;
       align-items: center;
       justify-content: center;

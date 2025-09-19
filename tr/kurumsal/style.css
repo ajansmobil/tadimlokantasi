@@ -1,9 +1,9 @@
 
-  .h1wt2menulist-menu:hover .dropdown-content-h1wt2 {
+  .wm1l2menulist-menu:hover .dropdown-content-wm1l2 {
     display: flex;
     flex-direction: column;
   }
-  .h1wt2menulist-menu {
+  .wm1l2menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .h1wt2menulist-menu:hover {
+  .wm1l2menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .h1wt2menulist-menu:hover > a {
+  .wm1l2menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .h1wt2menulist-menu > a {
+  .wm1l2menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-h1wt2 {
+  .dropdown-content-active-wm1l2 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-h1wt2 > a {
+  .dropdown-content-active-wm1l2 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-h1wt2 {
+  .dropdown-content-wm1l2 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-h1wt2 > a {
+  .dropdown-content-wm1l2 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-h1wt2 > a:hover {
+  .dropdown-content-wm1l2 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .h1wt2body {
+  .wm1l2body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .h1wt2body > a {
+  .wm1l2body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .h1wt2-title {
+  .wm1l2-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .h1wt2-spot {
+  .wm1l2-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .h1wt2-icon {
+  .wm1l2-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .h1wt2 {
+  .wm1l2 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .h1wt2title {
+  .wm1l2title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .h1wt2titlebody {
+  .wm1l2titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .h1wt2titlebodytitle {
+  .wm1l2titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .h1wt2titlebodylang {
+  .wm1l2titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .h1wt2titlebodylang ul {
+  .wm1l2titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .h1wt2titlebodylang li {
+  .wm1l2titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .h1wt2menu {
+  .wm1l2menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .h1wt2menulist {
+  .wm1l2menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .h1wt2menubody {
+  .wm1l2menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .h1wt2menulist {
+  .wm1l2menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .h1wt2menulistbody {
+  .wm1l2menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .h1wt2menu {
+    .wm1l2menu {
       overflow-x: auto;
     }
-    .h1wt2menulist {
+    .wm1l2menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .h1wt2body {
+    .wm1l2body {
       display: flex;
       align-items: center;
       justify-content: center;

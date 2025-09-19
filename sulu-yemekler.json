@@ -22,9 +22,9 @@
       "spot": {
         "tr": ""
       },
-      "desc": {},
       "icon": "home",
-      "img": "y3m7u.webp"
+      "img": "y3m7u.webp",
+      "desc": {}
     },
     {
       "name": {
@@ -45,9 +45,9 @@
       "spot": {
         "tr": ""
       },
-      "desc": {},
       "icon": "home",
-      "img": "ntl09.webp"
+      "img": "ntl09.webp",
+      "desc": {}
     },
     {
       "name": {
@@ -82,20 +82,9 @@
       "path": "et-haslama",
       "index": 3,
       "icon": "restaurant",
-      "description": {
-        "tr": ""
-      },
-      "keyword": {
-        "tr": ""
-      },
-      "text": {
-        "tr": ""
-      },
       "spot": {
         "tr": ""
       },
-      "update": "2025-09-19T04:09:57.819Z",
-      "date": "2025-09-12T04:02:30.035Z",
       "desing": {
         "header": [],
         "body": [],
@@ -116,20 +105,9 @@
       "index": 4,
       "icon": "restaurant",
       "img": "mty6f.webp",
-      "description": {
-        "tr": ""
-      },
-      "keyword": {
-        "tr": ""
-      },
-      "text": {
-        "tr": ""
-      },
       "spot": {
         "tr": ""
       },
-      "update": "2025-09-19T04:09:57.780Z",
-      "date": "2025-09-19T04:09:57.780Z",
       "desing": {
         "header": [],
         "body": [],

@@ -1,9 +1,9 @@
 
-  .i3bstmenulist-menu:hover .dropdown-content-i3bst {
+  .sj6nxmenulist-menu:hover .dropdown-content-sj6nx {
     display: flex;
     flex-direction: column;
   }
-  .i3bstmenulist-menu {
+  .sj6nxmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .i3bstmenulist-menu:hover {
+  .sj6nxmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .i3bstmenulist-menu:hover > a {
+  .sj6nxmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .i3bstmenulist-menu > a {
+  .sj6nxmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-i3bst {
+  .dropdown-content-active-sj6nx {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-i3bst > a {
+  .dropdown-content-active-sj6nx > a {
     color: #000 !important;
   }
 
-  .dropdown-content-i3bst {
+  .dropdown-content-sj6nx {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-i3bst > a {
+  .dropdown-content-sj6nx > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-i3bst > a:hover {
+  .dropdown-content-sj6nx > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .i3bstbody {
+  .sj6nxbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .i3bstbody > a {
+  .sj6nxbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .i3bst-title {
+  .sj6nx-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .i3bst-spot {
+  .sj6nx-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .i3bst-icon {
+  .sj6nx-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .i3bst {
+  .sj6nx {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .i3bsttitle {
+  .sj6nxtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .i3bsttitlebody {
+  .sj6nxtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .i3bsttitlebodytitle {
+  .sj6nxtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .i3bsttitlebodylang {
+  .sj6nxtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .i3bsttitlebodylang ul {
+  .sj6nxtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .i3bsttitlebodylang li {
+  .sj6nxtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .i3bstmenu {
+  .sj6nxmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .i3bstmenulist {
+  .sj6nxmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .i3bstmenubody {
+  .sj6nxmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .i3bstmenulist {
+  .sj6nxmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .i3bstmenulistbody {
+  .sj6nxmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .i3bstmenu {
+    .sj6nxmenu {
       overflow-x: auto;
     }
-    .i3bstmenulist {
+    .sj6nxmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .i3bstbody {
+    .sj6nxbody {
       display: flex;
       align-items: center;
       justify-content: center;

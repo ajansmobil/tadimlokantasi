@@ -1,9 +1,9 @@
 
-  .fabeqmenulist-menu:hover .dropdown-content-fabeq {
+  .mo0lhmenulist-menu:hover .dropdown-content-mo0lh {
     display: flex;
     flex-direction: column;
   }
-  .fabeqmenulist-menu {
+  .mo0lhmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .fabeqmenulist-menu:hover {
+  .mo0lhmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .fabeqmenulist-menu:hover > a {
+  .mo0lhmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .fabeqmenulist-menu > a {
+  .mo0lhmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-fabeq {
+  .dropdown-content-active-mo0lh {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-fabeq > a {
+  .dropdown-content-active-mo0lh > a {
     color: #000 !important;
   }
 
-  .dropdown-content-fabeq {
+  .dropdown-content-mo0lh {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-fabeq > a {
+  .dropdown-content-mo0lh > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-fabeq > a:hover {
+  .dropdown-content-mo0lh > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .fabeqbody {
+  .mo0lhbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .fabeqbody > a {
+  .mo0lhbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .fabeq-title {
+  .mo0lh-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .fabeq-spot {
+  .mo0lh-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .fabeq-icon {
+  .mo0lh-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .fabeq {
+  .mo0lh {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .fabeqtitle {
+  .mo0lhtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .fabeqtitlebody {
+  .mo0lhtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .fabeqtitlebodytitle {
+  .mo0lhtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .fabeqtitlebodylang {
+  .mo0lhtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .fabeqtitlebodylang ul {
+  .mo0lhtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .fabeqtitlebodylang li {
+  .mo0lhtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .fabeqmenu {
+  .mo0lhmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .fabeqmenulist {
+  .mo0lhmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .fabeqmenubody {
+  .mo0lhmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .fabeqmenulist {
+  .mo0lhmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .fabeqmenulistbody {
+  .mo0lhmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .fabeqmenu {
+    .mo0lhmenu {
       overflow-x: auto;
     }
-    .fabeqmenulist {
+    .mo0lhmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .fabeqbody {
+    .mo0lhbody {
       display: flex;
       align-items: center;
       justify-content: center;

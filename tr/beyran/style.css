@@ -1,9 +1,9 @@
 
-  .vwjlwmenulist-menu:hover .dropdown-content-vwjlw {
+  .k989tmenulist-menu:hover .dropdown-content-k989t {
     display: flex;
     flex-direction: column;
   }
-  .vwjlwmenulist-menu {
+  .k989tmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .vwjlwmenulist-menu:hover {
+  .k989tmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .vwjlwmenulist-menu:hover > a {
+  .k989tmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .vwjlwmenulist-menu > a {
+  .k989tmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-vwjlw {
+  .dropdown-content-active-k989t {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-vwjlw > a {
+  .dropdown-content-active-k989t > a {
     color: #000 !important;
   }
 
-  .dropdown-content-vwjlw {
+  .dropdown-content-k989t {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-vwjlw > a {
+  .dropdown-content-k989t > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-vwjlw > a:hover {
+  .dropdown-content-k989t > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .vwjlwbody {
+  .k989tbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .vwjlwbody > a {
+  .k989tbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .vwjlw-title {
+  .k989t-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .vwjlw-spot {
+  .k989t-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .vwjlw-icon {
+  .k989t-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .vwjlw {
+  .k989t {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .vwjlwtitle {
+  .k989ttitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vwjlwtitlebody {
+  .k989ttitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .vwjlwtitlebodytitle {
+  .k989ttitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .vwjlwtitlebodylang {
+  .k989ttitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .vwjlwtitlebodylang ul {
+  .k989ttitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .vwjlwtitlebodylang li {
+  .k989ttitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .vwjlwmenu {
+  .k989tmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .vwjlwmenulist {
+  .k989tmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .vwjlwmenubody {
+  .k989tmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vwjlwmenulist {
+  .k989tmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .vwjlwmenulistbody {
+  .k989tmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .vwjlwmenu {
+    .k989tmenu {
       overflow-x: auto;
     }
-    .vwjlwmenulist {
+    .k989tmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .vwjlwbody {
+    .k989tbody {
       display: flex;
       align-items: center;
       justify-content: center;

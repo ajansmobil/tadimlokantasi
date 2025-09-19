@@ -1,9 +1,9 @@
 
-  .ss0iamenulist-menu:hover .dropdown-content-ss0ia {
+  .m3clmmenulist-menu:hover .dropdown-content-m3clm {
     display: flex;
     flex-direction: column;
   }
-  .ss0iamenulist-menu {
+  .m3clmmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .ss0iamenulist-menu:hover {
+  .m3clmmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .ss0iamenulist-menu:hover > a {
+  .m3clmmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .ss0iamenulist-menu > a {
+  .m3clmmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-ss0ia {
+  .dropdown-content-active-m3clm {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-ss0ia > a {
+  .dropdown-content-active-m3clm > a {
     color: #000 !important;
   }
 
-  .dropdown-content-ss0ia {
+  .dropdown-content-m3clm {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-ss0ia > a {
+  .dropdown-content-m3clm > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-ss0ia > a:hover {
+  .dropdown-content-m3clm > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .ss0iabody {
+  .m3clmbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .ss0iabody > a {
+  .m3clmbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .ss0ia-title {
+  .m3clm-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .ss0ia-spot {
+  .m3clm-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .ss0ia-icon {
+  .m3clm-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .ss0ia {
+  .m3clm {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .ss0iatitle {
+  .m3clmtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ss0iatitlebody {
+  .m3clmtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .ss0iatitlebodytitle {
+  .m3clmtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .ss0iatitlebodylang {
+  .m3clmtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .ss0iatitlebodylang ul {
+  .m3clmtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .ss0iatitlebodylang li {
+  .m3clmtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .ss0iamenu {
+  .m3clmmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .ss0iamenulist {
+  .m3clmmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .ss0iamenubody {
+  .m3clmmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ss0iamenulist {
+  .m3clmmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .ss0iamenulistbody {
+  .m3clmmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .ss0iamenu {
+    .m3clmmenu {
       overflow-x: auto;
     }
-    .ss0iamenulist {
+    .m3clmmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .ss0iabody {
+    .m3clmbody {
       display: flex;
       align-items: center;
       justify-content: center;

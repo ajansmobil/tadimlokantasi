@@ -1,9 +1,9 @@
 
-  .t2zkcmenulist-menu:hover .dropdown-content-t2zkc {
+  .l81pnmenulist-menu:hover .dropdown-content-l81pn {
     display: flex;
     flex-direction: column;
   }
-  .t2zkcmenulist-menu {
+  .l81pnmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .t2zkcmenulist-menu:hover {
+  .l81pnmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .t2zkcmenulist-menu:hover > a {
+  .l81pnmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .t2zkcmenulist-menu > a {
+  .l81pnmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-t2zkc {
+  .dropdown-content-active-l81pn {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-t2zkc > a {
+  .dropdown-content-active-l81pn > a {
     color: #000 !important;
   }
 
-  .dropdown-content-t2zkc {
+  .dropdown-content-l81pn {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-t2zkc > a {
+  .dropdown-content-l81pn > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-t2zkc > a:hover {
+  .dropdown-content-l81pn > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .t2zkcbody {
+  .l81pnbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .t2zkcbody > a {
+  .l81pnbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .t2zkc-title {
+  .l81pn-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .t2zkc-spot {
+  .l81pn-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .t2zkc-icon {
+  .l81pn-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .t2zkc {
+  .l81pn {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .t2zkctitle {
+  .l81pntitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .t2zkctitlebody {
+  .l81pntitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .t2zkctitlebodytitle {
+  .l81pntitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .t2zkctitlebodylang {
+  .l81pntitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .t2zkctitlebodylang ul {
+  .l81pntitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .t2zkctitlebodylang li {
+  .l81pntitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .t2zkcmenu {
+  .l81pnmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .t2zkcmenulist {
+  .l81pnmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .t2zkcmenubody {
+  .l81pnmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .t2zkcmenulist {
+  .l81pnmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .t2zkcmenulistbody {
+  .l81pnmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .t2zkcmenu {
+    .l81pnmenu {
       overflow-x: auto;
     }
-    .t2zkcmenulist {
+    .l81pnmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .t2zkcbody {
+    .l81pnbody {
       display: flex;
       align-items: center;
       justify-content: center;

@@ -1,9 +1,9 @@
 
-  .nvhrmmenulist-menu:hover .dropdown-content-nvhrm {
+  .st5j3menulist-menu:hover .dropdown-content-st5j3 {
     display: flex;
     flex-direction: column;
   }
-  .nvhrmmenulist-menu {
+  .st5j3menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .nvhrmmenulist-menu:hover {
+  .st5j3menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .nvhrmmenulist-menu:hover > a {
+  .st5j3menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .nvhrmmenulist-menu > a {
+  .st5j3menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-nvhrm {
+  .dropdown-content-active-st5j3 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-nvhrm > a {
+  .dropdown-content-active-st5j3 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-nvhrm {
+  .dropdown-content-st5j3 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-nvhrm > a {
+  .dropdown-content-st5j3 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-nvhrm > a:hover {
+  .dropdown-content-st5j3 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .nvhrmbody {
+  .st5j3body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .nvhrmbody > a {
+  .st5j3body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .nvhrm-title {
+  .st5j3-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .nvhrm-spot {
+  .st5j3-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .nvhrm-icon {
+  .st5j3-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .nvhrm {
+  .st5j3 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .nvhrmtitle {
+  .st5j3title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .nvhrmtitlebody {
+  .st5j3titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .nvhrmtitlebodytitle {
+  .st5j3titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .nvhrmtitlebodylang {
+  .st5j3titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .nvhrmtitlebodylang ul {
+  .st5j3titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .nvhrmtitlebodylang li {
+  .st5j3titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .nvhrmmenu {
+  .st5j3menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .nvhrmmenulist {
+  .st5j3menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .nvhrmmenubody {
+  .st5j3menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .nvhrmmenulist {
+  .st5j3menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .nvhrmmenulistbody {
+  .st5j3menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .nvhrmmenu {
+    .st5j3menu {
       overflow-x: auto;
     }
-    .nvhrmmenulist {
+    .st5j3menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .nvhrmbody {
+    .st5j3body {
       display: flex;
       align-items: center;
       justify-content: center;

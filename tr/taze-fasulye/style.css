@@ -1,9 +1,9 @@
 
-  .cyk6omenulist-menu:hover .dropdown-content-cyk6o {
+  .r2hx9menulist-menu:hover .dropdown-content-r2hx9 {
     display: flex;
     flex-direction: column;
   }
-  .cyk6omenulist-menu {
+  .r2hx9menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .cyk6omenulist-menu:hover {
+  .r2hx9menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .cyk6omenulist-menu:hover > a {
+  .r2hx9menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .cyk6omenulist-menu > a {
+  .r2hx9menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-cyk6o {
+  .dropdown-content-active-r2hx9 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-cyk6o > a {
+  .dropdown-content-active-r2hx9 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-cyk6o {
+  .dropdown-content-r2hx9 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-cyk6o > a {
+  .dropdown-content-r2hx9 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-cyk6o > a:hover {
+  .dropdown-content-r2hx9 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .cyk6obody {
+  .r2hx9body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .cyk6obody > a {
+  .r2hx9body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .cyk6o-title {
+  .r2hx9-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .cyk6o-spot {
+  .r2hx9-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .cyk6o-icon {
+  .r2hx9-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .cyk6o {
+  .r2hx9 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .cyk6otitle {
+  .r2hx9title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .cyk6otitlebody {
+  .r2hx9titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .cyk6otitlebodytitle {
+  .r2hx9titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .cyk6otitlebodylang {
+  .r2hx9titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .cyk6otitlebodylang ul {
+  .r2hx9titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .cyk6otitlebodylang li {
+  .r2hx9titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .cyk6omenu {
+  .r2hx9menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .cyk6omenulist {
+  .r2hx9menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .cyk6omenubody {
+  .r2hx9menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .cyk6omenulist {
+  .r2hx9menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .cyk6omenulistbody {
+  .r2hx9menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .cyk6omenu {
+    .r2hx9menu {
       overflow-x: auto;
     }
-    .cyk6omenulist {
+    .r2hx9menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .cyk6obody {
+    .r2hx9body {
       display: flex;
       align-items: center;
       justify-content: center;

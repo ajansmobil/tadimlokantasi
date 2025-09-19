@@ -1,9 +1,9 @@
 
-  .imet0menulist-menu:hover .dropdown-content-imet0 {
+  .q9qv6menulist-menu:hover .dropdown-content-q9qv6 {
     display: flex;
     flex-direction: column;
   }
-  .imet0menulist-menu {
+  .q9qv6menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .imet0menulist-menu:hover {
+  .q9qv6menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .imet0menulist-menu:hover > a {
+  .q9qv6menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .imet0menulist-menu > a {
+  .q9qv6menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-imet0 {
+  .dropdown-content-active-q9qv6 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-imet0 > a {
+  .dropdown-content-active-q9qv6 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-imet0 {
+  .dropdown-content-q9qv6 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-imet0 > a {
+  .dropdown-content-q9qv6 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-imet0 > a:hover {
+  .dropdown-content-q9qv6 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .imet0body {
+  .q9qv6body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .imet0body > a {
+  .q9qv6body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .imet0-title {
+  .q9qv6-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .imet0-spot {
+  .q9qv6-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .imet0-icon {
+  .q9qv6-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .imet0 {
+  .q9qv6 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .imet0title {
+  .q9qv6title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .imet0titlebody {
+  .q9qv6titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .imet0titlebodytitle {
+  .q9qv6titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .imet0titlebodylang {
+  .q9qv6titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .imet0titlebodylang ul {
+  .q9qv6titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .imet0titlebodylang li {
+  .q9qv6titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .imet0menu {
+  .q9qv6menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .imet0menulist {
+  .q9qv6menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .imet0menubody {
+  .q9qv6menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .imet0menulist {
+  .q9qv6menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .imet0menulistbody {
+  .q9qv6menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .imet0menu {
+    .q9qv6menu {
       overflow-x: auto;
     }
-    .imet0menulist {
+    .q9qv6menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .imet0body {
+    .q9qv6body {
       display: flex;
       align-items: center;
       justify-content: center;

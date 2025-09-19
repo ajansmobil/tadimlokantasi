@@ -1,9 +1,9 @@
 
-  .ovcajmenulist-menu:hover .dropdown-content-ovcaj {
+  .cqb1pmenulist-menu:hover .dropdown-content-cqb1p {
     display: flex;
     flex-direction: column;
   }
-  .ovcajmenulist-menu {
+  .cqb1pmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .ovcajmenulist-menu:hover {
+  .cqb1pmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .ovcajmenulist-menu:hover > a {
+  .cqb1pmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .ovcajmenulist-menu > a {
+  .cqb1pmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-ovcaj {
+  .dropdown-content-active-cqb1p {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-ovcaj > a {
+  .dropdown-content-active-cqb1p > a {
     color: #000 !important;
   }
 
-  .dropdown-content-ovcaj {
+  .dropdown-content-cqb1p {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-ovcaj > a {
+  .dropdown-content-cqb1p > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-ovcaj > a:hover {
+  .dropdown-content-cqb1p > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .ovcajbody {
+  .cqb1pbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .ovcajbody > a {
+  .cqb1pbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .ovcaj-title {
+  .cqb1p-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .ovcaj-spot {
+  .cqb1p-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .ovcaj-icon {
+  .cqb1p-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .ovcaj {
+  .cqb1p {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .ovcajtitle {
+  .cqb1ptitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ovcajtitlebody {
+  .cqb1ptitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .ovcajtitlebodytitle {
+  .cqb1ptitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .ovcajtitlebodylang {
+  .cqb1ptitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .ovcajtitlebodylang ul {
+  .cqb1ptitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .ovcajtitlebodylang li {
+  .cqb1ptitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .ovcajmenu {
+  .cqb1pmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .ovcajmenulist {
+  .cqb1pmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .ovcajmenubody {
+  .cqb1pmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ovcajmenulist {
+  .cqb1pmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .ovcajmenulistbody {
+  .cqb1pmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .ovcajmenu {
+    .cqb1pmenu {
       overflow-x: auto;
     }
-    .ovcajmenulist {
+    .cqb1pmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .ovcajbody {
+    .cqb1pbody {
       display: flex;
       align-items: center;
       justify-content: center;

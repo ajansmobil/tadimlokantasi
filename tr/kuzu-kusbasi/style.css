@@ -1,9 +1,9 @@
 
-  .gfg97menulist-menu:hover .dropdown-content-gfg97 {
+  .mwgbdmenulist-menu:hover .dropdown-content-mwgbd {
     display: flex;
     flex-direction: column;
   }
-  .gfg97menulist-menu {
+  .mwgbdmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .gfg97menulist-menu:hover {
+  .mwgbdmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .gfg97menulist-menu:hover > a {
+  .mwgbdmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .gfg97menulist-menu > a {
+  .mwgbdmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-gfg97 {
+  .dropdown-content-active-mwgbd {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-gfg97 > a {
+  .dropdown-content-active-mwgbd > a {
     color: #000 !important;
   }
 
-  .dropdown-content-gfg97 {
+  .dropdown-content-mwgbd {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-gfg97 > a {
+  .dropdown-content-mwgbd > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-gfg97 > a:hover {
+  .dropdown-content-mwgbd > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .gfg97body {
+  .mwgbdbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .gfg97body > a {
+  .mwgbdbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .gfg97-title {
+  .mwgbd-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .gfg97-spot {
+  .mwgbd-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .gfg97-icon {
+  .mwgbd-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .gfg97 {
+  .mwgbd {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .gfg97title {
+  .mwgbdtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .gfg97titlebody {
+  .mwgbdtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .gfg97titlebodytitle {
+  .mwgbdtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .gfg97titlebodylang {
+  .mwgbdtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .gfg97titlebodylang ul {
+  .mwgbdtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .gfg97titlebodylang li {
+  .mwgbdtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .gfg97menu {
+  .mwgbdmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .gfg97menulist {
+  .mwgbdmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .gfg97menubody {
+  .mwgbdmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .gfg97menulist {
+  .mwgbdmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .gfg97menulistbody {
+  .mwgbdmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .gfg97menu {
+    .mwgbdmenu {
       overflow-x: auto;
     }
-    .gfg97menulist {
+    .mwgbdmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .gfg97body {
+    .mwgbdbody {
       display: flex;
       align-items: center;
       justify-content: center;

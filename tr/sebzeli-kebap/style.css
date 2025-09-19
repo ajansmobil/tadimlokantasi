@@ -1,9 +1,9 @@
 
-  .iabtemenulist-menu:hover .dropdown-content-iabte {
+  .llqymmenulist-menu:hover .dropdown-content-llqym {
     display: flex;
     flex-direction: column;
   }
-  .iabtemenulist-menu {
+  .llqymmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .iabtemenulist-menu:hover {
+  .llqymmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .iabtemenulist-menu:hover > a {
+  .llqymmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .iabtemenulist-menu > a {
+  .llqymmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-iabte {
+  .dropdown-content-active-llqym {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-iabte > a {
+  .dropdown-content-active-llqym > a {
     color: #000 !important;
   }
 
-  .dropdown-content-iabte {
+  .dropdown-content-llqym {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-iabte > a {
+  .dropdown-content-llqym > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-iabte > a:hover {
+  .dropdown-content-llqym > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .iabtebody {
+  .llqymbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .iabtebody > a {
+  .llqymbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .iabte-title {
+  .llqym-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .iabte-spot {
+  .llqym-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .iabte-icon {
+  .llqym-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .iabte {
+  .llqym {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .iabtetitle {
+  .llqymtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .iabtetitlebody {
+  .llqymtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .iabtetitlebodytitle {
+  .llqymtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .iabtetitlebodylang {
+  .llqymtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .iabtetitlebodylang ul {
+  .llqymtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .iabtetitlebodylang li {
+  .llqymtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .iabtemenu {
+  .llqymmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .iabtemenulist {
+  .llqymmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .iabtemenubody {
+  .llqymmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .iabtemenulist {
+  .llqymmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .iabtemenulistbody {
+  .llqymmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .iabtemenu {
+    .llqymmenu {
       overflow-x: auto;
     }
-    .iabtemenulist {
+    .llqymmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .iabtebody {
+    .llqymbody {
       display: flex;
       align-items: center;
       justify-content: center;

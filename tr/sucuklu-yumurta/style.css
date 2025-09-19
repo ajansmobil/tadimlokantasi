@@ -1,9 +1,9 @@
 
-  .nhbe4menulist-menu:hover .dropdown-content-nhbe4 {
+  .zaw6omenulist-menu:hover .dropdown-content-zaw6o {
     display: flex;
     flex-direction: column;
   }
-  .nhbe4menulist-menu {
+  .zaw6omenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .nhbe4menulist-menu:hover {
+  .zaw6omenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .nhbe4menulist-menu:hover > a {
+  .zaw6omenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .nhbe4menulist-menu > a {
+  .zaw6omenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-nhbe4 {
+  .dropdown-content-active-zaw6o {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-nhbe4 > a {
+  .dropdown-content-active-zaw6o > a {
     color: #000 !important;
   }
 
-  .dropdown-content-nhbe4 {
+  .dropdown-content-zaw6o {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-nhbe4 > a {
+  .dropdown-content-zaw6o > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-nhbe4 > a:hover {
+  .dropdown-content-zaw6o > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .nhbe4body {
+  .zaw6obody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .nhbe4body > a {
+  .zaw6obody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .nhbe4-title {
+  .zaw6o-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .nhbe4-spot {
+  .zaw6o-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .nhbe4-icon {
+  .zaw6o-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .nhbe4 {
+  .zaw6o {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .nhbe4title {
+  .zaw6otitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .nhbe4titlebody {
+  .zaw6otitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .nhbe4titlebodytitle {
+  .zaw6otitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .nhbe4titlebodylang {
+  .zaw6otitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .nhbe4titlebodylang ul {
+  .zaw6otitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .nhbe4titlebodylang li {
+  .zaw6otitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .nhbe4menu {
+  .zaw6omenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .nhbe4menulist {
+  .zaw6omenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .nhbe4menubody {
+  .zaw6omenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .nhbe4menulist {
+  .zaw6omenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .nhbe4menulistbody {
+  .zaw6omenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .nhbe4menu {
+    .zaw6omenu {
       overflow-x: auto;
     }
-    .nhbe4menulist {
+    .zaw6omenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .nhbe4body {
+    .zaw6obody {
       display: flex;
       align-items: center;
       justify-content: center;

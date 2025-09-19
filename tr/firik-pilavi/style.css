@@ -1,9 +1,9 @@
 
-  .likg8menulist-menu:hover .dropdown-content-likg8 {
+  .sbdromenulist-menu:hover .dropdown-content-sbdro {
     display: flex;
     flex-direction: column;
   }
-  .likg8menulist-menu {
+  .sbdromenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .likg8menulist-menu:hover {
+  .sbdromenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .likg8menulist-menu:hover > a {
+  .sbdromenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .likg8menulist-menu > a {
+  .sbdromenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-likg8 {
+  .dropdown-content-active-sbdro {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-likg8 > a {
+  .dropdown-content-active-sbdro > a {
     color: #000 !important;
   }
 
-  .dropdown-content-likg8 {
+  .dropdown-content-sbdro {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-likg8 > a {
+  .dropdown-content-sbdro > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-likg8 > a:hover {
+  .dropdown-content-sbdro > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .likg8body {
+  .sbdrobody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .likg8body > a {
+  .sbdrobody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .likg8-title {
+  .sbdro-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .likg8-spot {
+  .sbdro-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .likg8-icon {
+  .sbdro-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .likg8 {
+  .sbdro {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .likg8title {
+  .sbdrotitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .likg8titlebody {
+  .sbdrotitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .likg8titlebodytitle {
+  .sbdrotitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .likg8titlebodylang {
+  .sbdrotitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .likg8titlebodylang ul {
+  .sbdrotitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .likg8titlebodylang li {
+  .sbdrotitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .likg8menu {
+  .sbdromenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .likg8menulist {
+  .sbdromenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .likg8menubody {
+  .sbdromenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .likg8menulist {
+  .sbdromenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .likg8menulistbody {
+  .sbdromenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .likg8menu {
+    .sbdromenu {
       overflow-x: auto;
     }
-    .likg8menulist {
+    .sbdromenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .likg8body {
+    .sbdrobody {
       display: flex;
       align-items: center;
       justify-content: center;

@@ -1,9 +1,9 @@
 
-  .nn2o5menulist-menu:hover .dropdown-content-nn2o5 {
+  .no2k4menulist-menu:hover .dropdown-content-no2k4 {
     display: flex;
     flex-direction: column;
   }
-  .nn2o5menulist-menu {
+  .no2k4menulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .nn2o5menulist-menu:hover {
+  .no2k4menulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .nn2o5menulist-menu:hover > a {
+  .no2k4menulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .nn2o5menulist-menu > a {
+  .no2k4menulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-nn2o5 {
+  .dropdown-content-active-no2k4 {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-nn2o5 > a {
+  .dropdown-content-active-no2k4 > a {
     color: #000 !important;
   }
 
-  .dropdown-content-nn2o5 {
+  .dropdown-content-no2k4 {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-nn2o5 > a {
+  .dropdown-content-no2k4 > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-nn2o5 > a:hover {
+  .dropdown-content-no2k4 > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .nn2o5body {
+  .no2k4body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .nn2o5body > a {
+  .no2k4body > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .nn2o5-title {
+  .no2k4-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .nn2o5-spot {
+  .no2k4-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .nn2o5-icon {
+  .no2k4-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .nn2o5 {
+  .no2k4 {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .nn2o5title {
+  .no2k4title {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .nn2o5titlebody {
+  .no2k4titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .nn2o5titlebodytitle {
+  .no2k4titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .nn2o5titlebodylang {
+  .no2k4titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .nn2o5titlebodylang ul {
+  .no2k4titlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .nn2o5titlebodylang li {
+  .no2k4titlebodylang li {
     position: relative;
     list-style: none;
   }
-  .nn2o5menu {
+  .no2k4menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .nn2o5menulist {
+  .no2k4menulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .nn2o5menubody {
+  .no2k4menubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .nn2o5menulist {
+  .no2k4menulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .nn2o5menulistbody {
+  .no2k4menulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .nn2o5menu {
+    .no2k4menu {
       overflow-x: auto;
     }
-    .nn2o5menulist {
+    .no2k4menulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .nn2o5body {
+    .no2k4body {
       display: flex;
       align-items: center;
       justify-content: center;

@@ -1,9 +1,9 @@
 
-  .q246jmenulist-menu:hover .dropdown-content-q246j {
+  .xkrvamenulist-menu:hover .dropdown-content-xkrva {
     display: flex;
     flex-direction: column;
   }
-  .q246jmenulist-menu {
+  .xkrvamenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .q246jmenulist-menu:hover {
+  .xkrvamenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .q246jmenulist-menu:hover > a {
+  .xkrvamenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .q246jmenulist-menu > a {
+  .xkrvamenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-q246j {
+  .dropdown-content-active-xkrva {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-q246j > a {
+  .dropdown-content-active-xkrva > a {
     color: #000 !important;
   }
 
-  .dropdown-content-q246j {
+  .dropdown-content-xkrva {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-q246j > a {
+  .dropdown-content-xkrva > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-q246j > a:hover {
+  .dropdown-content-xkrva > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .q246jbody {
+  .xkrvabody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .q246jbody > a {
+  .xkrvabody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .q246j-title {
+  .xkrva-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .q246j-spot {
+  .xkrva-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .q246j-icon {
+  .xkrva-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .q246j {
+  .xkrva {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .q246jtitle {
+  .xkrvatitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .q246jtitlebody {
+  .xkrvatitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .q246jtitlebodytitle {
+  .xkrvatitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .q246jtitlebodylang {
+  .xkrvatitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .q246jtitlebodylang ul {
+  .xkrvatitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .q246jtitlebodylang li {
+  .xkrvatitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .q246jmenu {
+  .xkrvamenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .q246jmenulist {
+  .xkrvamenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .q246jmenubody {
+  .xkrvamenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .q246jmenulist {
+  .xkrvamenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .q246jmenulistbody {
+  .xkrvamenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .q246jmenu {
+    .xkrvamenu {
       overflow-x: auto;
     }
-    .q246jmenulist {
+    .xkrvamenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .q246jbody {
+    .xkrvabody {
       display: flex;
       align-items: center;
       justify-content: center;
