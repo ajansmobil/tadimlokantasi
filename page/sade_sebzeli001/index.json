@@ -9,5 +9,19 @@
   "path": "sade-sebzeli",
   "index": 9,
   "icon": "restaurant",
-  "img": "r315l.gif"
+  "img": "r315l.gif",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-09-19T04:09:57.782Z",
+  "date": "2025-09-19T04:09:57.782Z"
 }

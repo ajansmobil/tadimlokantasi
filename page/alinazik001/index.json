@@ -1,15 +1,25 @@
 {
   "name": {
-    "tr": "Alinazik"
+    "tr": "Alinazik Kıyma"
   },
   "status": "play",
   "category": "",
   "id": "alinazik001",
   "url": "",
   "path": "alinazik",
-  "index": 9,
+  "index": 8,
   "icon": "restaurant",
+  "spot": {
+    "tr": ""
+  },
   "desc": {},
+  "img": "r53i5.webp",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
   "description": {
     "tr": ""
   },
@@ -19,9 +29,6 @@
   "text": {
     "tr": ""
   },
-  "spot": {
-    "tr": ""
-  },
-  "update": "2025-09-12T04:02:35.143Z",
-  "date": "2025-09-12T04:02:29.965Z"
+  "update": "2025-09-19T05:27:49.145Z",
+  "date": "2025-09-19T05:27:49.145Z"
 }

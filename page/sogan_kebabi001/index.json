@@ -10,5 +10,19 @@
   "index": 2,
   "icon": "restaurant",
   "desc": {},
-  "img": "q0dpi.gif"
+  "img": "q0dpi.gif",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-09-19T04:09:57.747Z",
+  "date": "2025-09-19T04:09:57.747Z"
 }

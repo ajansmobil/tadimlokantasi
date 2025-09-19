@@ -9,5 +9,19 @@
   "path": "sandal-sefasi",
   "index": 7,
   "icon": "restaurant",
-  "img": "ot0n9.gif"
+  "img": "ot0n9.gif",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-09-19T04:09:57.778Z",
+  "date": "2025-09-19T04:09:57.778Z"
 }

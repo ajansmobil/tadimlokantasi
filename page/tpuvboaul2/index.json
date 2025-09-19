@@ -14,7 +14,10 @@
     "footer": []
   },
   "pathnext": "",
-  "desc": {},
   "icon": "home",
-  "img": "gd1sh.gif"
+  "img": "diftv.webp",
+  "spot": {
+    "tr": ""
+  },
+  "desc": {}
 }

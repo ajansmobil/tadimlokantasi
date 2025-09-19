@@ -5,6 +5,29 @@
   "data": [
     {
       "name": {
+        "tr": "Yumurta"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hohjtxpizb",
+      "url": "",
+      "path": "yumurta",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "spot": {
+        "tr": ""
+      },
+      "icon": "home",
+      "img": "p7nr6.webp",
+      "desc": {}
+    },
+    {
+      "name": {
         "tr": "Menemen"
       },
       "status": "play",
@@ -12,7 +35,7 @@
       "id": "menemen001",
       "url": "",
       "path": "menemen",
-      "index": 0,
+      "index": 1,
       "icon": "restaurant",
       "desing": {
         "header": [],
@@ -20,8 +43,11 @@
         "footer": []
       },
       "pathnext": "",
-      "desc": {},
-      "img": "rrg4n.gif"
+      "img": "e4ba1.webp",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
     },
     {
       "name": {
@@ -32,7 +58,7 @@
       "id": "kahvaltimenu001",
       "url": "",
       "path": "kahvalti-menu",
-      "index": 1,
+      "index": 2,
       "icon": "restaurant",
       "desing": {
         "header": [],
@@ -40,8 +66,11 @@
         "footer": []
       },
       "pathnext": "",
-      "desc": {},
-      "img": "zg9z9.gif"
+      "img": "c1mbx.webp",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
     },
     {
       "name": {
@@ -52,7 +81,7 @@
       "id": "kiymalikumurta001",
       "url": "",
       "path": "kiymali-yumurta",
-      "index": 2,
+      "index": 3,
       "icon": "restaurant",
       "desing": {
         "header": [],
@@ -60,8 +89,11 @@
         "footer": []
       },
       "pathnext": "",
-      "desc": {},
-      "img": "oa4or.gif"
+      "img": "xnbby.webp",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
     },
     {
       "name": {
@@ -72,7 +104,7 @@
       "id": "mercimekcorbasi001",
       "url": "",
       "path": "mercimek-corbasi",
-      "index": 3,
+      "index": 4,
       "icon": "restaurant",
       "desing": {
         "header": [],
@@ -80,8 +112,11 @@
         "footer": []
       },
       "pathnext": "",
-      "desc": {},
-      "img": "tdoyf.gif"
+      "img": "s8p1m.webp",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
     },
     {
       "name": {
@@ -92,7 +127,7 @@
       "id": "sucukluyumurta001",
       "url": "",
       "path": "sucuklu-yumurta",
-      "index": 4,
+      "index": 5,
       "icon": "restaurant",
       "desing": {
         "header": [],
@@ -100,8 +135,11 @@
         "footer": []
       },
       "pathnext": "",
-      "desc": {},
-      "img": "u98ku.gif"
+      "img": "u98ku.gif",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
     },
     {
       "name": {
@@ -112,7 +150,7 @@
       "id": "beyran001",
       "url": "",
       "path": "beyran",
-      "index": 5,
+      "index": 6,
       "icon": "restaurant",
       "desing": {
         "header": [],
@@ -120,8 +158,11 @@
         "footer": []
       },
       "pathnext": "",
-      "desc": {},
-      "img": "lwn9t.gif"
+      "img": "zw0n0.webp",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
     }
   ],
   "index": 2,

@@ -9,6 +9,9 @@
   "path": "patlican-kebabi",
   "index": 5,
   "icon": "restaurant",
-  "desc": {},
-  "img": "g253z.gif"
+  "img": "gdgog.webp",
+  "spot": {
+    "tr": ""
+  },
+  "desc": {}
 }

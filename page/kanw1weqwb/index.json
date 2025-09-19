@@ -1,0 +1,23 @@
+{
+  "name": {
+    "tr": "Yuvarlama"
+  },
+  "status": "play",
+  "category": "",
+  "id": "kanw1weqwb",
+  "url": "",
+  "path": "yuvarlama",
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "spot": {
+    "tr": ""
+  },
+  "desc": {},
+  "icon": "home",
+  "img": "ntl09.webp"
+}

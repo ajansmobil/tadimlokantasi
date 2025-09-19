@@ -7,7 +7,7 @@
   "id": "beyran001",
   "url": "",
   "path": "beyran",
-  "index": 5,
+  "index": 6,
   "icon": "restaurant",
   "desing": {
     "header": [],
@@ -15,6 +15,9 @@
     "footer": []
   },
   "pathnext": "",
-  "desc": {},
-  "img": "lwn9t.gif"
+  "img": "zw0n0.webp",
+  "spot": {
+    "tr": ""
+  },
+  "desc": {}
 }

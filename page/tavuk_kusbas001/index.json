@@ -7,8 +7,11 @@
   "id": "tavuk_kusbas001",
   "url": "",
   "path": "tavuk-kusbas",
-  "index": 1,
+  "index": 5,
   "icon": "restaurant",
-  "desc": {},
-  "img": "d5s9m.gif"
+  "img": "fql3x.webp",
+  "spot": {
+    "tr": ""
+  },
+  "desc": {}
 }

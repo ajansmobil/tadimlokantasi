@@ -1,14 +1,23 @@
 {
   "name": {
-    "tr": "Kuşbaşılı Alinazik"
+    "tr": "Alinazik Karışık"
   },
   "status": "play",
   "category": "",
   "id": "kusbasili_alinazik001",
   "url": "",
   "path": "kusbasili-alinazik",
-  "index": 0,
+  "index": 1,
   "icon": "restaurant",
-  "desc": {},
-  "img": "vz6zi.gif"
+  "img": "qjtuy.webp",
+  "spot": {
+    "tr": ""
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "",
+  "desc": {}
 }

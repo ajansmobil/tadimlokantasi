@@ -14,7 +14,10 @@
         "body": [],
         "footer": []
       },
-      "pathnext": "hakkimizda"
+      "pathnext": "hakkimizda",
+      "spot": {
+        "tr": ""
+      }
     },
     {
       "name": {
@@ -33,7 +36,10 @@
         ],
         "footer": []
       },
-      "pathnext": ""
+      "pathnext": "",
+      "spot": {
+        "tr": ""
+      }
     },
     {
       "name": {
@@ -53,7 +59,10 @@
         ],
         "footer": []
       },
-      "pathnext": ""
+      "pathnext": "",
+      "spot": {
+        "tr": ""
+      }
     }
   ],
   "modulestatus": {

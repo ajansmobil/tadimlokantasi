@@ -9,5 +9,24 @@
   "path": "sakiz-kebabi",
   "index": 8,
   "icon": "restaurant",
-  "img": "g6mgh.gif"
+  "img": "mty6f.webp",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "text": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-09-19T04:09:57.780Z",
+  "date": "2025-09-19T04:09:57.780Z",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  }
 }

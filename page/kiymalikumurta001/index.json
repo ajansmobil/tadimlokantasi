@@ -7,7 +7,7 @@
   "id": "kiymalikumurta001",
   "url": "",
   "path": "kiymali-yumurta",
-  "index": 2,
+  "index": 3,
   "icon": "restaurant",
   "desing": {
     "header": [],
@@ -15,6 +15,9 @@
     "footer": []
   },
   "pathnext": "",
-  "desc": {},
-  "img": "oa4or.gif"
+  "img": "xnbby.webp",
+  "spot": {
+    "tr": ""
+  },
+  "desc": {}
 }

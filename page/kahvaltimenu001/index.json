@@ -7,7 +7,7 @@
   "id": "kahvaltimenu001",
   "url": "",
   "path": "kahvalti-menu",
-  "index": 1,
+  "index": 2,
   "icon": "restaurant",
   "desing": {
     "header": [],
@@ -15,6 +15,9 @@
     "footer": []
   },
   "pathnext": "",
-  "desc": {},
-  "img": "zg9z9.gif"
+  "img": "c1mbx.webp",
+  "spot": {
+    "tr": ""
+  },
+  "desc": {}
 }

@@ -19,9 +19,12 @@
         "footer": []
       },
       "pathnext": "",
-      "desc": {},
       "icon": "home",
-      "img": "gd1sh.gif"
+      "img": "diftv.webp",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
     },
     {
       "name": {
@@ -40,8 +43,11 @@
         "footer": []
       },
       "pathnext": "",
-      "desc": {},
-      "img": "jwzcr.gif"
+      "img": "sa6il.webp",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
     }
   ],
   "index": 5,

@@ -1,9 +1,9 @@
 
-  .h2ghumenulist-menu:hover .dropdown-content-h2ghu {
+  .hgxogmenulist-menu:hover .dropdown-content-hgxog {
     display: flex;
     flex-direction: column;
   }
-  .h2ghumenulist-menu {
+  .hgxogmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .h2ghumenulist-menu:hover {
+  .hgxogmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .h2ghumenulist-menu:hover > a {
+  .hgxogmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .h2ghumenulist-menu > a {
+  .hgxogmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-h2ghu {
+  .dropdown-content-active-hgxog {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-h2ghu > a {
+  .dropdown-content-active-hgxog > a {
     color: #000 !important;
   }
 
-  .dropdown-content-h2ghu {
+  .dropdown-content-hgxog {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-h2ghu > a {
+  .dropdown-content-hgxog > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-h2ghu > a:hover {
+  .dropdown-content-hgxog > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .h2ghubody {
+  .hgxogbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .h2ghubody > a {
+  .hgxogbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .h2ghu-title {
+  .hgxog-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .h2ghu-spot {
+  .hgxog-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .h2ghu-icon {
+  .hgxog-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .h2ghu {
+  .hgxog {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .h2ghutitle {
+  .hgxogtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .h2ghutitlebody {
+  .hgxogtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .h2ghutitlebodytitle {
+  .hgxogtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .h2ghutitlebodylang {
+  .hgxogtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .h2ghutitlebodylang ul {
+  .hgxogtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .h2ghutitlebodylang li {
+  .hgxogtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .h2ghumenu {
+  .hgxogmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .h2ghumenulist {
+  .hgxogmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .h2ghumenubody {
+  .hgxogmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .h2ghumenulist {
+  .hgxogmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .h2ghumenulistbody {
+  .hgxogmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .h2ghumenu {
+    .hgxogmenu {
       overflow-x: auto;
     }
-    .h2ghumenulist {
+    .hgxogmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .h2ghubody {
+    .hgxogbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -214,7 +214,7 @@
 
   .social-icon__link {
     font-size: 2rem;
-    color: #fff;
+    color: --color--;
     margin: 0 10px;
     display: inline-block;
     transition: 0.5s;
@@ -222,11 +222,11 @@
 
   .social-icon__link:hover {
     transform: translateY(-10px);
-  }
+  } 
 
   .menu__link {
     font-size: 1.2rem;
-    color: #fff !important;
+    color: --color-- !important;
     margin: 0 10px;
     display: inline-block;
     transition: 0.5s;
@@ -239,8 +239,8 @@
     opacity: 1;
   }
 
-  .footer p {
-    color: #fff;
+  .footer p { 
+    color: --color--;
     margin: 15px 0 10px 0;
     font-size: 1rem;
     font-weight: 300;

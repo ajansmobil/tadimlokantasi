@@ -9,18 +9,13 @@
   "path": "kuru-fasulye",
   "index": 16,
   "icon": "restaurant",
-  "description": {
-    "tr": ""
-  },
-  "keyword": {
-    "tr": ""
-  },
-  "text": {
-    "tr": ""
-  },
   "spot": {
     "tr": ""
   },
-  "update": "2025-09-12T04:02:35.174Z",
-  "date": "2025-09-12T04:02:30.008Z"
+  "img": "sqoog.webp",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  }
 }

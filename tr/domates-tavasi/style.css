@@ -1,9 +1,9 @@
 
-  .vnclumenulist-menu:hover .dropdown-content-vnclu {
+  .slshemenulist-menu:hover .dropdown-content-slshe {
     display: flex;
     flex-direction: column;
   }
-  .vnclumenulist-menu {
+  .slshemenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .vnclumenulist-menu:hover {
+  .slshemenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .vnclumenulist-menu:hover > a {
+  .slshemenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .vnclumenulist-menu > a {
+  .slshemenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-vnclu {
+  .dropdown-content-active-slshe {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-vnclu > a {
+  .dropdown-content-active-slshe > a {
     color: #000 !important;
   }
 
-  .dropdown-content-vnclu {
+  .dropdown-content-slshe {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-vnclu > a {
+  .dropdown-content-slshe > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-vnclu > a:hover {
+  .dropdown-content-slshe > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .vnclubody {
+  .slshebody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .vnclubody > a {
+  .slshebody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .vnclu-title {
+  .slshe-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .vnclu-spot {
+  .slshe-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .vnclu-icon {
+  .slshe-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .vnclu {
+  .slshe {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .vnclutitle {
+  .slshetitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vnclutitlebody {
+  .slshetitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .vnclutitlebodytitle {
+  .slshetitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .vnclutitlebodylang {
+  .slshetitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .vnclutitlebodylang ul {
+  .slshetitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .vnclutitlebodylang li {
+  .slshetitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .vnclumenu {
+  .slshemenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .vnclumenulist {
+  .slshemenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .vnclumenubody {
+  .slshemenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .vnclumenulist {
+  .slshemenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .vnclumenulistbody {
+  .slshemenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .vnclumenu {
+    .slshemenu {
       overflow-x: auto;
     }
-    .vnclumenulist {
+    .slshemenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .vnclubody {
+    .slshebody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -214,7 +214,7 @@
 
   .social-icon__link {
     font-size: 2rem;
-    color: #fff;
+    color: --color--;
     margin: 0 10px;
     display: inline-block;
     transition: 0.5s;
@@ -222,11 +222,11 @@
 
   .social-icon__link:hover {
     transform: translateY(-10px);
-  }
+  } 
 
   .menu__link {
     font-size: 1.2rem;
-    color: #fff !important;
+    color: --color-- !important;
     margin: 0 10px;
     display: inline-block;
     transition: 0.5s;
@@ -239,8 +239,8 @@
     opacity: 1;
   }
 
-  .footer p {
-    color: #fff;
+  .footer p { 
+    color: --color--;
     margin: 15px 0 10px 0;
     font-size: 1rem;
     font-weight: 300;

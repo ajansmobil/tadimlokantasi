@@ -1,9 +1,9 @@
 
-  .ofp40menulist-menu:hover .dropdown-content-ofp40 {
+  .ovcajmenulist-menu:hover .dropdown-content-ovcaj {
     display: flex;
     flex-direction: column;
   }
-  .ofp40menulist-menu {
+  .ovcajmenulist-menu {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -17,35 +17,35 @@
     display: inline-block;
     white-space: nowrap;
   }
-  .ofp40menulist-menu:hover {
+  .ovcajmenulist-menu:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
-  .ofp40menulist-menu:hover > a {
+  .ovcajmenulist-menu:hover > a {
     color: #000 !important;
   }
 
-  .ofp40menulist-menu > a {
+  .ovcajmenulist-menu > a {
     display: block;
     width: 100%;
     height: 100%;
     color: #fff !important;
   }
 
-  .dropdown-content-active-ofp40 {
+  .dropdown-content-active-ovcaj {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dropdown-content-active-ofp40 > a {
+  .dropdown-content-active-ovcaj > a {
     color: #000 !important;
   }
 
-  .dropdown-content-ofp40 {
+  .dropdown-content-ovcaj {
     display: none;
     position: absolute;
     background-color: #333;
@@ -54,7 +54,7 @@
     margin-top: 10px;
     padding: 5px;
   }
-  .dropdown-content-ofp40 > a {
+  .dropdown-content-ovcaj > a {
     width: inherit;
     padding: 10px;
     border: solid;
@@ -62,13 +62,13 @@
     text-align: left;
     color: #fff;
   }
-  .dropdown-content-ofp40 > a:hover {
+  .dropdown-content-ovcaj > a:hover {
     background-color: #000;
   }
   .module-logo {
     width: 175px;
   }
-  .ofp40body {
+  .ovcajbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -76,87 +76,87 @@
     gap: 20px;
     justify-content: space-between;
   }
-  .ofp40body > a {
+  .ovcajbody > a {
     display: flex;
     align-items: center;
     justify-content: left;
     position: relative;
     gap: 10px;
   }
-  .ofp40-title {
+  .ovcaj-title {
     font-size: 16px;
     font-weight: 500;
     color: --titlecolor--;
   }
-  .ofp40-spot {
+  .ovcaj-spot {
     font-size: 16px;
     color: --spotcolor--;
   }
-  .ofp40-icon {
+  .ovcaj-icon {
     font-size: 36px !important;
     color: --iconcolor--;
   }
-  .ofp40 {
+  .ovcaj {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-  .ofp40title {
+  .ovcajtitle {
     width: 100%;
     background-color: #333;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ofp40titlebody {
+  .ovcajtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
     justify-content: space-between;
     padding: 10px 0px 10px 0px;
   }
-  .ofp40titlebodytitle {
+  .ovcajtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .ofp40titlebodylang {
+  .ovcajtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
-  .ofp40titlebodylang ul {
+  .ovcajtitlebodylang ul {
     display: flex;
     gap: 5px;
     position: relative;
   }
-  .ofp40titlebodylang li {
+  .ovcajtitlebodylang li {
     position: relative;
     list-style: none;
   }
-  .ofp40menu {
+  .ovcajmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
-  .ofp40menulist {
+  .ovcajmenulist {
     width: calc(100% - 20px);
     background-color: #6b8f00;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
-  .ofp40menubody {
+  .ovcajmenubody {
     width: 100%;
     background-color: #6b8f00;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ofp40menulist {
+  .ovcajmenulist {
     width: 100%;
     display: flex;
     gap: 10px;
@@ -165,20 +165,20 @@
     padding: 10px;
     /* overflow-x: auto; */
   }
-  .ofp40menulistbody {
+  .ovcajmenulistbody {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .ofp40menu {
+    .ovcajmenu {
       overflow-x: auto;
     }
-    .ofp40menulist {
+    .ovcajmenulist {
       flex-direction: row;
     }
     .module-logo {
       width: 200px;
     }
-    .ofp40body {
+    .ovcajbody {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -214,7 +214,7 @@
 
   .social-icon__link {
     font-size: 2rem;
-    color: #fff;
+    color: --color--;
     margin: 0 10px;
     display: inline-block;
     transition: 0.5s;
@@ -222,11 +222,11 @@
 
   .social-icon__link:hover {
     transform: translateY(-10px);
-  }
+  } 
 
   .menu__link {
     font-size: 1.2rem;
-    color: #fff !important;
+    color: --color-- !important;
     margin: 0 10px;
     display: inline-block;
     transition: 0.5s;
@@ -239,8 +239,8 @@
     opacity: 1;
   }
 
-  .footer p {
-    color: #fff;
+  .footer p { 
+    color: --color--;
     margin: 15px 0 10px 0;
     font-size: 1rem;
     font-weight: 300;
